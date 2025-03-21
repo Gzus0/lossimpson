@@ -1,0 +1,59 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(../images/background.jpg)
+}
+.navegador{
+    background: #000000;
+}
+
+header{
+    background: #000000;
+}
+@font-face {
+    font-family: "simpsonfont";
+    src: url(../fonts/Simpsonfont\ DEMO.otf) format(opentype);
+}
+h1{
+    font-family: "simpsonfont";
+    text-align: center;
+    font-size: 80px;
+    color:#FFD90F;
+}
+h2{
+    font-family: "simpsonfont";
+    font-size: xx-large;
+}
+h3{
+    font-family: "simpsonfont";
+    font-size: 30px;
+    color: #FFD90F;
+}
+p{
+    font-family: "simpsonfont";
+    font-size: medium;
+}
+.nav-item{
+    margin-top: 20px;
+   
+}
+
+.slider{
+    margin: 0;
+    padding: 0;
+    }
+.imagen{
+    border-width: 2px;
+    margin: 0%;
+    padding-bottom: 10px;
+}
+.footerColor{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background: #FFD90F;
+}
+
